@@ -1,6 +1,9 @@
-## Olá! Eu me chamo Allan Furlani. 
-## Sou um eterno estudante apaixonado por tecnologia, ciência da computação super focado na área de desenvolvimento web.🎓
-## Seja bem vindo!😄
+## Olá! Eu me chamo é Allan Furlani. 
+## Sou um estudante na área da computação com foco em desenvolvimento web. Entusiasta pela área, busco constantemente me atualizar e aprimorar minhas habilidades.🎓
+## Seja bem vindo. É um prazer recebê-lo aqui!😄
+
+
+
 
 [![Facebook](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27998859003)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/allan.furlani)
