@@ -46,4 +46,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plai
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan182&layout=compact)](https://github.com/Allan182/)
 <br/>
 
-![Snake Animation](https://github.com/Allan182/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/Allan182/Allan182/blob/output/github-contribution-grid-snake.svg)
