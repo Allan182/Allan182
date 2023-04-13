@@ -1,5 +1,5 @@
-## Olá! Eu me chamo é Allan Furlani. 
-## Sou um estudante na área da computação com foco em desenvolvimento web. Entusiasta pela área, busco constantemente me atualizar e aprimorar minhas habilidades.🎓
+## Olá! Eu me chamo Allan Furlani. 
+## Sou um entusiasta de desenvolvimento web e estudante de computação. Buscando constantemente me atualizar e aprimorar minhas habilidades.🎓
 ## Seja bem vindo. É um prazer recebê-lo aqui!😄
 
 
