@@ -26,7 +26,7 @@
   <img  align="center" height="35" width="45"  alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img  align="center" height="35" width="45"  alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img  align="center" height="35" width="45"  alt="PHP"
-src="o" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/php-original.svg" />
 <img  align="center" height="35" width="45"  alt="Figma"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img   align="center" height="35" width="45"  alt="Git" 
