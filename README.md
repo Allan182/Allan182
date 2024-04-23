@@ -1,5 +1,5 @@
 ## Olá! Eu me chamo Allan Furlani. 
-## Sou um estudante de graduação apaixonado por desenvolvimento web. Busco constantemente me atualizar e aprimorar minhas habilidades.🎓
+## Sou um estudante de graduação em desenvolvimento web. Sou apaixonado pela área estou buscando constantemente me atualizar e aprimorar minhas habilidades.🎓
 ## Seja bem vindo. É um prazer recebê-lo aqui!😄
 
 
