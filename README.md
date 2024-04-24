@@ -17,27 +17,20 @@
 
 https://www.svgrepo.com/show/331488/mongodb.svg
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <br>
   <img align="center" alt="JS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img   align="center" height="35" width="45"  alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="NodeJS" height="35" width="45" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg"/>
   <img  align="center" height="35" width="45"  alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img  align="center" height="35" width="45"  alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img  align="center" height="35" width="45"  alt="MongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
-
-<img  align="center" height="35" width="45"  alt="PHP"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img  align="center" height="35" width="45"  alt="Figma"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img   align="center" height="35" width="45"  alt="Git" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" height="35" width="45"  alt="Linux"  
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-
-
+  <img  align="center" height="35" width="45"  alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img  align="center" height="35" width="45"  alt="MongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg"/>
+  <img  align="center" height="35" width="45"  alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img  align="center" height="35" width="45"  alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img   align="center" height="35" width="45"  alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" height="35" width="45"  alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
   
 <br/>
