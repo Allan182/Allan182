@@ -20,7 +20,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img   align="center" height="35" width="45"  alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="NodeJS" height="35" width="45" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
+  <img align="center" alt="NodeJS" height="35" width="45" src="https://icons8.com.br/icon/hsPbhkOH4FMe/n%C3%B3-js">
   <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img  align="center" height="35" width="45"  alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
