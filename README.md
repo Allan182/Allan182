@@ -25,7 +25,7 @@ https://www.svgrepo.com/show/331488/mongodb.svg
   <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="NodeJS" height="35" width="45" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg"/>
   <img  align="center" height="35" width="45"  alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img  align="center" height="35" width="45"  alt="Flutter" src="  https://www.svgrepo.com/show/373604/flutter.svg" />
+  <img  align="center" height="35" width="45"  alt="Flutter" src="https://www.svgrepo.com/show/373604/flutter.svg" />
   <img  align="center" height="35" width="45"  alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img  align="center" height="35" width="45"  alt="MongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg"/>
   <img  align="center" height="35" width="45"  alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
