@@ -15,7 +15,6 @@
 
 ## Tecnologias que eu utilizo na minha rotina
 
-https://www.svgrepo.com/show/331488/mongodb.svg
 
 <div style="display: inline_block">
   <br>
