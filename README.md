@@ -13,7 +13,7 @@
 
 ![Allan Furlani GitHub stats](https://github-readme-stats.vercel.app/api?username=Allan182&show_icons=true&theme=tokyonight&count_private=true)
 
-## Tecnologias que eu utilizo na minha rotina
+## Tecnologias que eu tenho experiência 
 
 
 <div style="display: inline_block">
