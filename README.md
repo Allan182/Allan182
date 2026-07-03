@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo Allan Furlani. 
 ## Sou programador na NTT Data Business Solutions. Sou apaixonado pela área e estou buscando constantemente me atualizar e aprimorar minhas habilidades.🎓
-## Seja bem vindo. É um prazer recebê-lo aqui!😄
+## Seja bem vindo. É um prazer recebê-lo aqui!
 
 
 
